@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 sudo apt install -y docker docker-compose
 docker --version
 docker-compose --version
